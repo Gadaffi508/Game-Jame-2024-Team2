@@ -22,11 +22,10 @@ Oyuncular, zamanı kontrol edebilen bir karakteri kontrol ederler. Karakterin sa
 3. Proje klasörünü Unity3D projesi olarak açın.
 4. Proje dosyalarını derleyin ve çalıştırın.
 
-## Katkıda Bulunma
+```sh
+git clone https://github.com/kullanici-adi/senin-gucun-zaman.git
+cd senin-gucun-zaman
+# Unity3D'yi açın ve bu klasörü projeniz olarak seçin.
 
-- Herhangi bir hata veya öneri için GitHub üzerinden issue açabilirsiniz.
-- Kod tabanına katkıda bulunmak için pull request gönderebilirsiniz.
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
+Bu README dosyasını projenizin kök dizinine `README.md` adıyla kaydedebilirsiniz. Ayrıca, `LICENSE` dosyasını da eklemeyi unutmayın. Eğer proje dosyalarınızı GitHub'a yüklemek için daha fazla yardıma ihtiyacınız olursa, size yardımcı olmaktan memnuniyet duyarım!
