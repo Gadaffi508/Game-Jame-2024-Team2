@@ -25,6 +25,7 @@ Oyuncular, zamanı kontrol edebilen bir karakteri kontrol ederler. Karakterin sa
 ```sh
 git clone https://github.com/kullanici-adi/senin-gucun-zaman.git
 cd senin-gucun-zaman
+```
 # Unity3D'yi açın ve bu klasörü projeniz olarak seçin.
 
 
