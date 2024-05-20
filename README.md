@@ -27,7 +27,7 @@ Ayıklayıp Oyuna giriyorsunuz.
 4. Proje dosyalarını derleyin ve çalıştırın.
 
 ```sh
-git clone https://github.com/kullanici-adi/senin-gucun-zaman.git
+git clone https://github.com/Gadaffi508/Game-Jame-2024-Team2.git
 cd senin-gucun-zaman
 ```
 
