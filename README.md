@@ -15,7 +15,7 @@ Bu proje, Oyun ve Uygulama Akademisi bursiyerlerinin 3 günlük oyun projesidir.
 
 Oyuncular, zamanı kontrol edebilen bir karakteri kontrol ederler. Karakterin sahip olduğu yetenekler arasında zamanı yavaşlatma, düşmanları dondurma veya yavaşlatma, farklı tarihi dönemlere seyahat etme gibi özellikler bulunur. Oyuncular, farklı zaman hızlarında parkurları geçmeli ve düşmanları yenerek görevleri tamamlamalıdır. Düşmanlardan ve nesnelerden zaman çalarak güç kazanabilirler.
 
-##Built
+## Built
 İndirdiğiniz dosyada built.rar var.
 Ayıklayıp Oyuna giriyorsunuz.
 
@@ -31,7 +31,7 @@ git clone https://github.com/kullanici-adi/senin-gucun-zaman.git
 cd senin-gucun-zaman
 ```
 
-##Kullanılan Assetler
+## Kullanılan Assetler
 ```
 https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-construction-kit-modular-159280
 https://assetstore.unity.com/packages/3d/characters/robots/robot-sphere-136226
