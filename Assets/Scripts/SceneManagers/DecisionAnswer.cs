@@ -29,7 +29,7 @@ public class DecisionAnswer : MonoBehaviour
 
     void Sceneload()
     {
-        Debug.Log("Game");
+        transationManager.SceneLoad(1);
     }
 
     void FinishGame()

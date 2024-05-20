@@ -38,6 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -537,11 +538,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9722e61b4492eb0468b7b598dd128630, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.999989
+      value: 23.052
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9722e61b4492eb0468b7b598dd128630, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -14.619129
+      value: -17.259
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9722e61b4492eb0468b7b598dd128630, type: 3}
       propertyPath: m_LocalRotation.w
@@ -33741,8 +33742,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 3.9202833, y: 1.2329521, z: 3.0166693}
-  m_Center: {x: -1.4601417, y: 0.11647606, z: 0.16115999}
+  m_Size: {x: 4.4898615, y: 2.0379314, z: 3.0166693}
+  m_Center: {x: -1.1753527, y: 0.5189657, z: 0.16115999}
 --- !u!4 &1621671558
 Transform:
   m_ObjectHideFlags: 0
