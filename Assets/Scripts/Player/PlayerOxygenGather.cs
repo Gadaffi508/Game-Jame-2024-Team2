@@ -58,6 +58,7 @@ public class PlayerOxygenGather : MonoBehaviour
             if (setLights)
             {
                 //playiri istedigin scene gonderebilirsin burda
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
             //final
         }
